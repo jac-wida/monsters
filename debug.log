@@ -1,0 +1,25 @@
+[1111/121124.067:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/123609.819:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/202025.372:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/203025.527:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/203025.547:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1111/203025.547:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/203025.547:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/203525.373:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/205025.377:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/210525.379:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1111/212025.390:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/075648.993:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/092411.848:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/094442.449:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/095439.536:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1112/095439.560:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/100439.590:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/100439.825:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1112/100439.825:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/100439.825:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/112811.038:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/125524.117:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/133101.860:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1113/135003.466:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1113/144404.989:ERROR:crash_report_database_win.cc(457)] unexpected header
